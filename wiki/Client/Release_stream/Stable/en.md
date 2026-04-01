@@ -9,7 +9,7 @@ tags:
   - osu!(stable)
 ---
 
-# stable release stream
+# Stable release stream
 
 ::: Infobox
 
